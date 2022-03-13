@@ -1,0 +1,11 @@
+{
+  "name": "communication-maps",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://GuhSntLean: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@github.com/GuhSntLean/CommunicationMaps.git",
+  "author": "GuhSntLean",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
