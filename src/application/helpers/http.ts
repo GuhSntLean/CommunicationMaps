@@ -27,3 +27,6 @@ const serverError = (error: Error): HttpResponse<Error> => ({
     statusCode: 500,
     data: error,
 })
+
+export = HttpResponse
+exports = {ok, badRequest, unauthorized, forbidden, serverError}
